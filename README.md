@@ -1,9 +1,11 @@
 # Power-BI-Blinkit
 Blinkit Sales Report 
-# Project Overview: This Power BI project showcases Blinkit's sales performance, number of items sold, and their overall customer ratings.
+# Project Overview: 
+This Power BI project showcases Blinkit's sales performance, number of items sold, and their overall customer ratings.
 ## Key Features – 
 
-## Interactive Filters: Various statistics are displayed using Slicers, Line charts, Stacked Bar charts, Cards, Donut charts and Funnel charts.
+## Interactive Filters: 
+Various statistics are displayed using Slicers, Line charts, Stacked Bar charts, Cards, Donut charts and Funnel charts.
 
 ## Main Visuals Included:
 1. **Cards:** This visual shows the company's total sales, average sales, the total number of items sold across various outlets, and the average customer ratings.
